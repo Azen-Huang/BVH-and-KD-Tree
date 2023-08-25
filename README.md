@@ -9,3 +9,5 @@ Using BVH and KD-Tree to speedup Ray tracing
 ![image](https://github.com/Azen-Huang/BVH-and-KD-Tree/blob/main/readme/2.png)
 
 ![image](https://github.com/Azen-Huang/BVH-and-KD-Tree/blob/main/readme/3.png)
+
+![image](https://github.com/Azen-Huang/BVH-and-KD-Tree/blob/main/readme/4.png)
