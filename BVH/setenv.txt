@@ -1,0 +1,2 @@
+echo "alias g++='g++ -std=c++17'" >> ~/.bashrc\
+source ~/.bashrc\
